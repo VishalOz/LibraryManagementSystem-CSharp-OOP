@@ -8,7 +8,7 @@ namespace LibraryApp
     {
         public List<Book> BorrowedBooks { get; } = new List<Book>();
 
-        public LibraryMember(int id, string name) : base(id, name) { }
+        public LibraryMember(int id, string name) : base(id, name) {}
 
         public void BorrowBook(Library library, int bookId)
         {
@@ -24,6 +24,7 @@ namespace LibraryApp
                 Console.WriteLine("Book not available or not found.");
             }
         }
+
         public void ReturnBook(Library library, int bookId)
         {
             Book book = BorrowedBooks.FirstOrDefault(b => b.Id == bookId);

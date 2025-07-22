@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\LibraryManagementSystem-CSharp-OOP\obj\Debug\net8.0\LibraryManagementSystem-CSharp-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\LibraryManagementSystem-CSharp-OOP\obj\Debug\net8.0\LibraryManagementSystem-CSharp-OOP.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\LibraryManagementSystem-CSharp-OOP\obj\Debug\net8.0\LibraryManagementSystem-CSharp-OOP.AssemblyInfo.cs
+C:\Users\USER\Desktop\LibraryManagementSystem-CSharp-OOP\obj\Debug\net8.0\LibraryManagementSystem-CSharp-OOP.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LibraryManagementSystem-CSharp-OOP\obj\Debug\net8.0\LibraryManagementSystem-CSharp-OOP.sourcelink.json
+C:\Users\USER\Desktop\LibraryManagementSystem-CSharp-OOP\bin\Debug\net8.0\LibraryManagementSystem-CSharp-OOP.exe
+C:\Users\USER\Desktop\LibraryManagementSystem-CSharp-OOP\bin\Debug\net8.0\LibraryManagementSystem-CSharp-OOP.deps.json
+C:\Users\USER\Desktop\LibraryManagementSystem-CSharp-OOP\bin\Debug\net8.0\LibraryManagementSystem-CSharp-OOP.runtimeconfig.json
+C:\Users\USER\Desktop\LibraryManagementSystem-CSharp-OOP\bin\Debug\net8.0\LibraryManagementSystem-CSharp-OOP.dll
+C:\Users\USER\Desktop\LibraryManagementSystem-CSharp-OOP\bin\Debug\net8.0\LibraryManagementSystem-CSharp-OOP.pdb
+C:\Users\USER\Desktop\LibraryManagementSystem-CSharp-OOP\obj\Debug\net8.0\LibraryManagementSystem-CSharp-OOP.dll
+C:\Users\USER\Desktop\LibraryManagementSystem-CSharp-OOP\obj\Debug\net8.0\refint\LibraryManagementSystem-CSharp-OOP.dll
+C:\Users\USER\Desktop\LibraryManagementSystem-CSharp-OOP\obj\Debug\net8.0\LibraryManagementSystem-CSharp-OOP.pdb
+C:\Users\USER\Desktop\LibraryManagementSystem-CSharp-OOP\obj\Debug\net8.0\LibraryManagementSystem-CSharp-OOP.genruntimeconfig.cache
+C:\Users\USER\Desktop\LibraryManagementSystem-CSharp-OOP\obj\Debug\net8.0\ref\LibraryManagementSystem-CSharp-OOP.dll

@@ -5,10 +5,10 @@ namespace LibraryApp
         public int Id { get; }
         public string Name { get; }
 
-        public User(int Id, string Name)
+        protected User(int id, string name)
         {
-            Id = Id;
-            Name = Name;
+            Id = id;
+            Name = name;
         }
         public virtual void ViewBooks(Library library)
         {
