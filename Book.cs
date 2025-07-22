@@ -7,11 +7,11 @@ namespace LibraryApp
         public string Author { get; }
         public bool IsAvailable { get; set; } = true;
 
-        public Book(int Id, string Title, string Author)
+        public Book(int id, string title, string author)
         {
-            Id = Id;
-            Title = Title;
-            Author = Author;
+            Id = id;
+            Title = title;
+            Author = author;
         }
 
         public override string ToString()
